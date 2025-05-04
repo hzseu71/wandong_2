@@ -48,6 +48,7 @@ CO2ID = 9 # （用空气）
 ---
 ## MCGPU Litev1.5运行配置文件参数详情
 文件参见此处，注意此文件不可直接运行，通过下面的脚本进行执行（或替换掉.in文件内的所有 **{}** 占位符后可以执行）
+
 **测试能谱文件**
 <https://github.com/hzseu71/wandong_2/tree/main/spec>
 
